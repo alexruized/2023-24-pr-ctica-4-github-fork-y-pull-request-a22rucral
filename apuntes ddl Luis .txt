@@ -53,7 +53,7 @@ VALUES
 Para añadir o quitar columnas con comandos 
 alter table equipos add column NumTitulos int(9); 
 alter table equipos drop column aforo;
-
+te has fiajdo
 
 
 Para comprobar unicamente el dia y mes de una fecha 
